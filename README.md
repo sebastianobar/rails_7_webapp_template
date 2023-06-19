@@ -21,4 +21,4 @@ bin/dev
 ```
 
 With bin/dev will run all the Procfile.dev processes, including the rails server, sidekiq, and a mailcatcher smtp server.
-Note: I will be adding a docker-compose file to run all of this in the future.
+Note: I will add a docker-compose file to run all of this in the future.
